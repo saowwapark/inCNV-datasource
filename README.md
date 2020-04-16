@@ -10,4 +10,4 @@ For more details about how to use those annotations, please see at [inCNV implem
 
 ## Data accuracy
 
-Users can see the content of data, what version of data public databases provide, and what version of data we reformat on [released page](https://github.com/saowwapark/inCNV-datasource/releases).
+Users can see the content of data, what version of data that public databases provide, and what version of data we reformat on [released page](https://github.com/saowwapark/inCNV-datasource/releases).
